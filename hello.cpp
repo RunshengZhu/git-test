@@ -5,5 +5,6 @@ using namespace std;
 int main(){
     cout<<"hello"<<endl;
     cout<<"develop"<<endl;
-    return 0
+    cout<<"develop kid"<<endl;
+    return 0;
 }
