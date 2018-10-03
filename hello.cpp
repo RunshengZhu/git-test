@@ -5,6 +5,11 @@ using namespace std;
 int main(){
     cout<<"hello"<<endl;
     cout<<"develop"<<endl;
-    cout<<"develop kid new"<<endl;
+<<<<<<< HEAD
+    cout<<"develop kid"<<endl;
+=======
+    cout<<"develop kid"<<endl;
+    cout<<"develop girl"<<endl;
+>>>>>>> feature/develop-girl
     return 0;
 }
