@@ -6,5 +6,6 @@ int main(){
     cout<<"hello"<<endl;
     cout<<"develop"<<endl;
     cout<<"develop kid"<<endl;
+    cout<<"develop girl"<<endl;
     return 0;
 }
