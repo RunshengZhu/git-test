@@ -6,5 +6,5 @@ int main(){
     cout<<"hello"<<endl;
     cout<<"develop"<<endl;
     cout<<"new develop branch"<<endl;
-    return 0
+    return 0;
 }
